@@ -1,3 +1,6 @@
+android/* linguist-documentation
+ios/* linguist-documentation
 windows/* linguist-documentation
 linux/* linguist-documentation
 macos/* linguist-documentation
+web/* linguist-documentation
